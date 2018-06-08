@@ -1,0 +1,19 @@
+{
+    "name": "meuhmeuhconcept/wkhtmltopdf-alpine",
+    "description": "Binary of wkhtmltopdf runnable in docker alpine container.",
+    "keywords": ["pdf", "alpine", "docker", "wkhtmltopdf", "convert", "binary"],
+    "license": "MIT License",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Jean-Noël Germon",
+            "email": "jn.germon@meuhmeuhconcept.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf"
+    ],
+    "require": {
+    }
+}
