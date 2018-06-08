@@ -2,7 +2,7 @@
     "name": "meuhmeuhconcept/wkhtmltopdf-alpine",
     "description": "Binary of wkhtmltopdf runnable in docker alpine container.",
     "keywords": ["pdf", "alpine", "docker", "wkhtmltopdf", "convert", "binary"],
-    "license": "MIT License",
+    "license": "MIT",
     "homepage": "http://wkhtmltopdf.org/",
     "authors": [
         {
